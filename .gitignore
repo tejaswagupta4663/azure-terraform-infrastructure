@@ -1,0 +1,15 @@
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/*.tfstate.*
+
+# SSH Keys
+*.pem
+*.key
+terraform_azure
+terraform_azure.pub
+
+# OS / Editor
+.DS_Store
+.vscode/
