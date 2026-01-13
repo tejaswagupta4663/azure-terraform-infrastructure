@@ -1,4 +1,4 @@
-☁️ **Azure Infrastructure Automation using Terraform (Learning Project)**
+# ☁️ **Azure Infrastructure Automation using Terraform (Learning Project)**
 
 ---
 
